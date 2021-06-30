@@ -1,1 +1,1 @@
-web: server.py 696969
+web: server 696969
