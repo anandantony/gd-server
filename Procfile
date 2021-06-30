@@ -1,1 +1,1 @@
-web: server 696969
+web: python manage.py 696969
