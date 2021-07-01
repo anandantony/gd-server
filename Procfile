@@ -1,1 +1,1 @@
-web: python server.py 696969
+web: python ./server.py 6969 0.0.0.0:6969
